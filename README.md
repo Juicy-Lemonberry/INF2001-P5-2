@@ -61,3 +61,8 @@ on their landing page
 manager before proceeding with the rejection
 11. The company’s IT administrators will oversee adding new staff and managers to the system
 Timeline
+
+### Approaches to the problem
+
+1. 
+2. 
